@@ -1,4 +1,4 @@
-# Project Title
+# HTML and CSS Website
 
 Simple minimalist website written in HTML and CSS just for practicing purposes.
 
